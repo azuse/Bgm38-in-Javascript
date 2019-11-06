@@ -1,12 +1,10 @@
-<script  type="text/javascript" src="http://azusebox.moe/bgm38_min.js"></script>
-# Bangumi emoji in Javascript(bgm38)
+# Bangumi emoji in Javascript ![](https://github.com/azuse/Bgm38-in-Javascript/raw/master/assests/bgm38.gif)  
 A script to translate bangumi emoji (bgm38) into ![](https://github.com/azuse/Bgm38-in-Javascript/raw/master/assests/bgm38.gif)   
 
 Now you can use bangumi emoji on your blog, twitter, etc.  
 
 ## Usage
-Simply copy this code in to your editor, and hope for the best. (bgm24)
-
+Simply copy this code in to your editor, and hope for the best. ![](https://github.com/azuse/Bgm38-in-Javascript/raw/master/assests/bgm24.gif)  
 ```html
 <script  type="text/javascript" src="http://azusebox.moe/bgm38_min.js">
 ```
