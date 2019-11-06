@@ -138,9 +138,9 @@
     bgm_sweets[i] = "(bgm_tv)"
     base64_sweets[i++] = base64_bgm[117]
     bgm_sweets[i] = "b38"
-    base64_sweets[i++] = base64_bgm[117]
+    base64_sweets[i++] = base64_bgm[38]
     bgm_sweets[i] = "bgm38"
-    base64_sweets[i++] = base64_bgm[117]
+    base64_sweets[i++] = base64_bgm[38]
 
     var p_array = document.querySelectorAll("p")
     for (var index in p_array) {
