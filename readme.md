@@ -10,10 +10,11 @@ Simply copy this code in to your editor, and hope for the best. ![](https://gith
 <script  type="text/javascript" src="http://azusebox.moe/Bgm38-in-Javascript/bgm38_min.js">
 ```
 
+> The script is currently hosted on my server but it's neither fast or stable. Please tell me if you have better cdn distribute choice.
+
 ### For Other Websites
 You can copy the script to tampermonkey as a user script, like what I do to twitter.
 
-> The script is currently hosted on my server but it's neither fast or stable. Please tell me if you have better cdn distribute choice.
 
 ## Example
 ![](https://github.com/azuse/Bgm38-in-Javascript/raw/master/assests/twitter.png)  
